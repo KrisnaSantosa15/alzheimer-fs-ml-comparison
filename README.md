@@ -1,5 +1,7 @@
 # Alzheimer's Disease Prediction Project
 
+![Alzheimer's Disease](images/image.png)
+
 ## 🧠 Introduction
 This project aims to predict Alzheimer's disease using machine learning techniques. This project explore various feature selection methods and machine learning models to achieve the best possible prediction accuracy.
 
